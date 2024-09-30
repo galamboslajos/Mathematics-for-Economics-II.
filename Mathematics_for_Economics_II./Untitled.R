@@ -35,3 +35,8 @@ print(p1)
 
 # Save the plot
 ggsave("Commodity_Bundles.png", plot = p1, width = 6, height = 4, dpi = 300)
+
+
+###### Figure 1.2 ######
+
+
